@@ -1,0 +1,20 @@
+{
+    "name": "react-native-space-navigation",
+    "version": "0.0.1",
+    "description": "Navigation component for React Native.",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ugurdalkiran/react-native-space-navigation.git"
+    },
+    "keywords": [
+        "react native space navigation",
+        "react native navigaiton"
+    ],
+    "author": "Uğur Dalkıran",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/ugurdalkiran/react-native-space-navigation/issues"
+    },
+    "homepage": "https://github.com/ugurdalkiran/react-native-space-navigation/blob/master/README.md"
+}
